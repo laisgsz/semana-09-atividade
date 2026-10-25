@@ -15,3 +15,4 @@ turmaObject.mostrarAlunos();
 print('*'*30)
 print('Aluno com menor nota:', turmaObject.menorNota.mostrarAluno())
 print('Aluno com maior nota:', turmaObject.maiorNota.mostrarAluno())
+turmaObject.maiorNota.mostrarAluno();
